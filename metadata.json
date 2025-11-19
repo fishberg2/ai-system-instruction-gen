@@ -1,0 +1,5 @@
+{
+  "name": "AI System Instruction Generator",
+  "description": "An application to generate system instructions for Google AI Studio. Simply describe what you want the AI to do, and it will create a formal system instruction for you.",
+  "requestFramePermissions": []
+}
